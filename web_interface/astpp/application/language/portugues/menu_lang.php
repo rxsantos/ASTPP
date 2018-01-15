@@ -37,8 +37,8 @@ $lang['Subscriptions'] = 'Assinaturas';
 $lang['Periodic Charges'] = 'Recargas Periódicas';
 
 //Accounting Manage Taxes Menu
-$lang['Manage Taxes'] = 'Gerencias Taxas';
-$lang['Taxes'] = 'Taxas';
+$lang['Manage Taxes'] = 'Gerenciar Tarifas';
+$lang['Taxes'] = 'Tarifas';
 
 //Services Calling Cards Menu
 
@@ -55,16 +55,16 @@ $lang['Manage DIDs'] = 'Gerenciar DIDs';
 $lang['Freeswitch Devices'] = 'Dispositivos Freeswitch';
 $lang['Providers'] = 'Provedores';
 $lang['Trunks'] = 'Troncos';
-$lang['Termination Rates'] = 'Preços de Terminações';
+$lang['Termination Rates'] = 'Tarifas de Terminações';
 $lang['Gateways'] = 'Gateways';
 $lang['Sip Profile'] = 'Perfil Sip';
 $lang['SIP Devices'] = 'Dispositivo';
 
 //Routing Clients Menu
-$lang['Rates'] = 'Preços';
+$lang['Rates'] = 'Tarifas';
 $lang['Clients'] = 'Clientes';
-$lang['Rate Group'] = 'Grupo de Preço';
-$lang['Origination Rates'] = 'Preços de Originação';
+$lang['Rate Group'] = 'Grupos de Tarifas';
+$lang['Origination Rates'] = 'Tarifas de Origem';
 $lang['Packages'] = 'Pacotes';
 $lang['Package Usage Report'] = 'Relatório de Uso de Pacote';
 
@@ -78,7 +78,7 @@ $lang['Provider Report'] = 'Relatórios de Provedores';
 //Reports->Switch Reports Menu
 $lang['Switch Reports'] = 'Relatórios do Switch';
 $lang['Live Call Report'] = 'Relatórios Live Call';
-$lang['Trunk Stats'] = 'Estados dos Troncos';
+$lang['Trunk Stats'] = 'Status dos Troncos';
 
 //Reports->Summary Reports Menu
 $lang['Summary Reports'] = 'Relatórios Resumidos';
